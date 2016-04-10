@@ -1,0 +1,14 @@
+1. How does your gem take advantage of Ruby’s metaprogramming capabilities?
+I used #define_method with #send method to create all of the colorizer methods.
+I think it's so cool :)
+
+2. How long did you spend working on this project?
+2 hours
+
+3.What was the most rewarding challenge you conquered?
+nothing
+
+4. Where do you still have room to grow?
+- Background colors
+- Random colors
+- Merge with ASCII letters
